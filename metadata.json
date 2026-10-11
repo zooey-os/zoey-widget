@@ -1,0 +1,18 @@
+{
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "shooey623@gmail.com",
+        "Name": "Sho"
+      }
+    ],
+    "Category": "Utilities",
+    "Description": "An aesthetic wellness & sweet notes desktop companion for ZoeyOS",
+    "Icon": "emblem-favorite",
+    "Id": "org.zooey.widget",
+    "Name": "Zoey Companion",
+    "Version": "1.0.0",
+    "Website": "https://github.com/zooey-os/zoey-widget"
+  },
+  "KPackageStructure": "Plasma/Applet"
+}
